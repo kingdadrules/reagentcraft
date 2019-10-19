@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"DQD",
+	"GEG",
+	"DQD"
+  ],
+  "key": {  
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+	"E": {
+      "item": "minecraft:emerald"
+    },
+	"G": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "reagentcraft:alstone"
+  }
+}

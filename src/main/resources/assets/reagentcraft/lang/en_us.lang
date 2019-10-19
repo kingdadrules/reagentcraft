@@ -1,0 +1,68 @@
+
+item.modsword.name=reagentcraft Sword
+item.modpickaxe.name=reagentcraft Pickaxe
+item.modspade.name=reagentcraft Shovel
+item.modhoe.name=reagentcraft Hoe
+item.modaxe.name=reagentcraft Axe
+
+item.modhelmet.name=reagentcraft Helmet
+item.modchestplate.name=reagentcraft Chestplate
+item.modleggings.name=reagentcraft Leggings
+item.modboots.name=reagentcraft Boots
+
+item.reagent1.name=Reagent level 1
+item.reagent2.name=Reagent level 2
+item.reagent3.name=Reagent level 3
+item.reagent4.name=Reagent level 4
+item.reagent5.name=Reagent level 5
+item.reagent6.name=Reagent level 6
+item.reagentnugget.name=Reagent Nugget
+item.reagentingot.name=Reagent Ingot
+item.reagentjewel.name=Reagent Jewel
+item.alstone.name=Alchemist's Stone
+item.stonecrafting.name=Crafting Stone
+
+item.stonered.name=Red Dye Stone 
+item.stoneyellow.name=Yellow Dye Stone
+item.stoneblue.name=Blue Dye Stone
+item.stonebrown.name=Brown Dye Stone
+item.stonegreen.name=Green Dye Stone
+item.stoneblack.name=Black Dye Stone
+
+item.stoneforest.name=Stone Of The Forest
+item.stonespider.name=Stone Of The Spider
+item.stonecreeper.name=Stone Of The Creeper
+item.stonezombie.name=Stone Of The Zombie
+item.stoneskeleton.name=Stone Of The Skeleton
+item.stonedesert.name=Stone Of The Desert
+item.stonefire.name=Stone Of Fire
+item.stonenether.name=Stone Of The Nether
+
+item.stonecoal.name=Stone Of Coal
+item.stoneiron.name=Stone Of Iron
+item.stoneredstone.name=Stone Of Redstone
+item.stoneglass.name=Stone Of Glass
+item.stoneglowstone.name=Stone Of Glowstone
+item.stonelapis.name=Stone Of Lapis 
+ 
+item.stonegold.name=Stone Of Gold
+item.stonewinter.name=Stone Of The Winter
+item.stoneclay.name=Stone Of Clay
+item.stoneleather.name=Stone Of Leather 
+item.stonenetherwart.name=Stone Of Netherwart
+
+item.stonediamond.name=Stone Of Diamond
+item.stoneblaze.name=Stone Of The Blaze
+item.stoneslime.name=Stone Of The Slime
+item.stoneobsidian.name=Stone Of Obsidian
+
+item.stonemagma.name=Stone Of Magma
+item.stoneemerald.name=Stone Of Emerald
+item.stoneghast.name=Stone Of The Ghast
+item.stoneend.name=Stone Of The End
+
+item.stoneinfinity.name=Stone Of Infinity
+
+tile.reagentore.name=Reagent Ore
+
+itemGroup.reagentcraft=reagentcraft

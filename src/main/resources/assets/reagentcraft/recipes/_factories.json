@@ -1,0 +1,9 @@
+{
+  	"conditions": {
+    	"enableInfinityCrafting": "conditions.InfinityConditionFactory",
+		"nonDiamondCraftingStone": "conditions.CraftingstoneConditionFactory",
+		"enableArmor": "conditions.ArmorConditionFactory",
+		"enableTools": "conditions.ToolsConditionFactory",
+		"enableSword": "conditions.SwordConditionFactory"
+ 	}
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "reagentcraft",
+  "name": "reagentcraft",
+  "description": "Crafting with reagent.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["kingdadrules"],
+  "credits": "The Forge and FML guys, for making this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
