@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_sand"
+    },
+	{
+       "item": "minecraft:soul_sand"
+    },
+	{
+      "item": "minecraft:soul_sand"
+    },
+	{
+      "item": "reagentcraft:stonered"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stoneglowstone"
+    },	
+	{
+      "item": "minecraft:soul_sand"
+    },
+	{
+      "item": "minecraft:soul_sand"	  
+    },	
+	{
+      "item": "minecraft:soul_sand"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stonenetherwart"
+  }
+}

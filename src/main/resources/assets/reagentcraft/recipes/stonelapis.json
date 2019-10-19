@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lapis_block"
+    },
+	{
+      "item": "reagentcraft:stoneblue"
+    },	
+	{
+      "item": "minecraft:lapis_block"
+    },
+	{
+      "item": "reagentcraft:stoneglass"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stonefire"
+    },
+	{
+      "item": "minecraft:lapis_block"	  
+    },
+	{
+      "item": "minecraft:lapis_block"
+    },
+	{
+      "item": "minecraft:lapis_block"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stonelapis"
+  }
+}

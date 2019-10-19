@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"XXX",
+	"XYX",
+	"XXX"
+  ],
+  "key": {  
+    "X": {
+      "item": "minecraft:dye",
+	"data": 11
+
+    },
+    "Y": {
+      "item": "reagentcraft:stonecrafting"
+    }
+  },
+  "result": {
+    "item": "reagentcraft:stoneyellow"
+  }
+}

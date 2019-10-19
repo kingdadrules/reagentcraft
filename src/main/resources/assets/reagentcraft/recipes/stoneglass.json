@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glass"
+    },
+	{
+      "item": "minecraft:glass"
+    },
+	{
+      "item": "minecraft:glass"
+    },
+	{
+      "item": "reagentcraft:stonedesert"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stonefire"
+    },	
+	{
+      "item": "minecraft:glass"
+    },
+	{
+      "item": "minecraft:glass"	  
+    },	
+	{
+      "item": "minecraft:glass"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stoneglass"
+  }
+}

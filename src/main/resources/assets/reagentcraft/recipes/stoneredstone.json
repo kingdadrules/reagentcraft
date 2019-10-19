@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone_block"
+    },
+	{
+      "item": "reagentcraft:stonered"
+    },	
+	{
+      "item": "minecraft:redstone_block"
+    },
+	{
+      "item": "reagentcraft:stonedesert"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stoneglass"
+    },
+	{
+      "item": "minecraft:redstone_block"	  
+    },
+	{
+      "item": "minecraft:redstone_block"
+    },
+	{
+      "item": "minecraft:redstone_block"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stoneredstone"
+  }
+}

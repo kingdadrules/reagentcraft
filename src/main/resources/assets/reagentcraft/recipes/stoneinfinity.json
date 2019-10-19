@@ -1,0 +1,40 @@
+{
+   "conditions": [
+   {
+     "type": "reagentcraft:enableInfinityCrafting"
+   }
+  ],
+  "result": {
+    "item": "reagentcraft:stoneinfinity"
+  },
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stonediamond"
+    },
+	{
+      "item": "reagentcraft:stoneemerald"
+    },
+	{
+      "item": "reagentcraft:stoneend"
+    },
+	{
+      "item": "reagentcraft:reagent6"
+    },
+	{
+      "item": "reagentcraft:reagent6"
+    },
+	{
+      "item": "reagentcraft:reagent6"
+    },
+	{
+      "item": "reagentcraft:reagent6"
+    },
+	{
+      "item": "reagentcraft:reagent6"
+    }
+  ]
+}

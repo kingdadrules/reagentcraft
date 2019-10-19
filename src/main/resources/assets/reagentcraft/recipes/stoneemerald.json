@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald_block"
+    },
+	{
+      "item": "reagentcraft:stonegreen"
+    },	
+	{
+      "item": "minecraft:emerald_block"
+    },
+	{
+      "item": "reagentcraft:stonediamond"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stoneglass"
+    },
+	{
+      "item": "minecraft:emerald_block"	  
+    },
+	{
+      "item": "minecraft:emerald_block"
+    },
+	{
+      "item": "minecraft:emerald_block"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stoneemerald"
+  }
+}

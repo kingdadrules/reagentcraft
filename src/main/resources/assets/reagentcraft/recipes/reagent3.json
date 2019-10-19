@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:alstone"
+    },
+	{
+      "item": "reagentcraft:reagent2"
+    },
+	{
+      "item": "reagentcraft:reagent2"
+    }
+  ],  
+  "result": {
+    "item": "reagentcraft:reagent3"
+  }
+}

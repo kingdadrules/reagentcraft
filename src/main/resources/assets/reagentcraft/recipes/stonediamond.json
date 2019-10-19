@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+      "item": "minecraft:diamond_block"
+    },	
+	{
+      "item": "reagentcraft:stonewinter"
+    }, 
+	{
+      "item": "minecraft:diamond_block"	  
+    },	   
+	{
+      "item": "reagentcraft:stonefire"
+    },
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stonecoal"
+    },		
+	{
+      "item": "minecraft:diamond_block"
+    },
+	{
+      "item": "reagentcraft:stoneglass"
+    },	
+	{
+      "item": "minecraft:diamond_block"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stonediamond"
+  }
+}

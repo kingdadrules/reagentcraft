@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glowstone"
+    },
+	{
+      "item": "reagentcraft:stoneyellow"
+    },
+	{
+      "item": "minecraft:glowstone"
+    },
+	{
+      "item": "reagentcraft:stoneglass"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stonenether"
+    },	
+	{
+      "item": "minecraft:glowstone"
+    },
+	{
+      "item": "minecraft:glowstone"	  
+    },	
+	{
+      "item": "minecraft:glowstone"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stoneglowstone"
+  }
+}

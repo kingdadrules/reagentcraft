@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"QGQ",
+	"SYS",
+	"QGQ"
+  ],
+  "key": {  
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+	"G": {
+      "item": "minecraft:glowstone_dust"
+    },
+	"S": {
+      "item": "minecraft:soul_sand"
+    },
+    "Y": {
+      "item": "reagentcraft:stonecrafting"
+    }
+  },
+  "result": {
+    "item": "reagentcraft:stonenether"
+  }
+}

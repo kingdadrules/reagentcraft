@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+      "item": "reagentcraft:stoneblack"
+    },
+	{
+      "item": "reagentcraft:stonediamond"	  
+    },	
+	{
+      "item": "reagentcraft:stoneblue"	  
+    },		
+	{
+      "item": "reagentcraft:stonefire"
+    }, 
+	{
+      "item": "reagentcraft:stonecrafting"
+    },	  
+	{
+      "item": "reagentcraft:stonewinter"
+    },
+	{
+      "item": "minecraft:obsidian"
+    },
+	{
+      "item": "minecraft:obsidian"
+    },	
+	{
+      "item": "minecraft:obsidian"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stoneobsidian"
+  }
+}

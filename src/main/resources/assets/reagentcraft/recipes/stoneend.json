@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_eye"
+    },
+	{
+      "item": "reagentcraft:stonenetherwart"
+    },	
+	{
+      "item": "minecraft:ender_eye"
+    },
+	{
+      "item": "reagentcraft:stoneemerald"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stonediamond"
+    },
+	{
+      "item": "minecraft:ender_eye"	  
+    },
+	{
+      "item": "minecraft:ender_eye"
+    },
+	{
+      "item": "minecraft:ender_eye"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stoneend"
+  }
+}

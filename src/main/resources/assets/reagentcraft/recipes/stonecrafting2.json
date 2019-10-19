@@ -1,0 +1,33 @@
+{
+  "conditions": [
+   {
+     "type": "reagentcraft:nonDiamondCraftingStone"
+   }
+  ],
+  "result": {
+    "item": "reagentcraft:stonecrafting"
+  },
+    "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"CEC",
+	"PAP",
+	"JCJ"
+  ],
+  "key": {  
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+	"P": {
+      "item": "minecraft:ender_pearl"
+    },
+	"A": {
+      "item": "reagentcraft:alstone"
+    },
+	"J": {
+      "item": "reagentcraft:reagentjewel"
+    } 
+  }
+}

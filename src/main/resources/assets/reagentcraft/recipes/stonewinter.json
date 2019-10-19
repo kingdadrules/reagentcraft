@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:snow"
+    },
+	{
+      "item": "reagentcraft:stoneblue"
+    },
+	{
+      "item": "minecraft:snow"
+    },
+	{
+      "item": "reagentcraft:stoneforest"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stoneglass"
+    },	
+	{
+      "item": "minecraft:snow"
+    },
+	{
+      "item": "minecraft:snow"	  
+    },	
+	{
+      "item": "minecraft:snow"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stonewinter"
+  }
+}

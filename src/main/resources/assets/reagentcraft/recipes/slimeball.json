@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stoneslime"
+    },
+	{
+      "item": "reagentcraft:reagent4"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:slime_ball",
+	"data": 0,
+	"count": 2
+  }
+}

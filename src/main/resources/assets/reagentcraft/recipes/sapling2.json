@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"RRR",
+	" S ",
+	"RRR"
+  ],
+  "key": {  
+    "R": {
+      "item": "reagentcraft:reagent1"
+    },
+    "S": {
+      "item": "reagentcraft:stoneforest"
+    }
+  },
+  "result": {
+    "item": "minecraft:sapling",
+	"data": 2
+  }
+}

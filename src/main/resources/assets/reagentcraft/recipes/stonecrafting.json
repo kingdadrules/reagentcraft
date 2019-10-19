@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"CDC",
+	"EAE",
+	"CDC"
+  ],
+  "key": {  
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+	"E": {
+      "item": "minecraft:ender_pearl"
+    },
+	"A": {
+      "item": "reagentcraft:alstone"
+    }
+  },
+  "result": {
+    "item": "reagentcraft:stonecrafting"
+  }
+}

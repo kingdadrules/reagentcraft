@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+      "item": "minecraft:nether_brick"
+    },
+	{
+      "item": "minecraft:nether_brick"	  
+    },	
+	{
+      "item": "minecraft:nether_brick"	  
+    },		
+	{
+      "item": "reagentcraft:stonenether"
+    }, 
+	{
+      "item": "reagentcraft:stonecrafting"
+    },	  
+	{
+      "item": "reagentcraft:stonefire"
+    },
+	{
+      "item": "minecraft:lava_bucket"
+    },
+	{
+      "item": "reagentcraft:stonegold"
+    },	
+	{
+      "item": "minecraft:lava_bucket"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stoneblaze"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:leather"
+    },
+	{
+       "item": "minecraft:leather"
+    },
+	{
+      "item": "minecraft:leather"
+    },
+	{
+      "item": "reagentcraft:stonebrown"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stonezombie"
+    },	
+	{
+      "item": "minecraft:leather"
+    },
+	{
+      "item": "minecraft:leather"	  
+    },	
+	{
+      "item": "minecraft:leather"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stoneleather"
+  }
+}

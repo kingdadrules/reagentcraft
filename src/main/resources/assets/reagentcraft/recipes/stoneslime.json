@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+      "item": "minecraft:slime_ball"
+    },
+	{
+      "item": "minecraft:slime_ball"	  
+    },	
+	{
+      "item": "minecraft:slime_ball"	  
+    },		
+	{
+      "item": "reagentcraft:stonenether"
+    }, 
+	{
+      "item": "reagentcraft:stonecrafting"
+    },	  
+	{
+      "item": "reagentcraft:stoneclay"
+    },
+	{
+      "item": "minecraft:slime_ball"
+    },
+	{
+      "item": "reagentcraft:stonegreen"
+    },	
+	{
+      "item": "minecraft:slime_ball"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stoneslime"
+  }
+}

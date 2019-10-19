@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"RRR",
+	"RZR",
+	"RRR"
+  ],
+  "key": {  
+    "R": {
+      "item": "reagentcraft:reagent1"
+    },
+    "Z": {
+      "item": "reagentcraft:stonespider"
+    }
+  },
+  "result": {
+    "item": "minecraft:spider_eye"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:coal_block"
+    },
+	{
+      "item": "reagentcraft:stoneblack"
+    },	
+	{
+      "item": "minecraft:coal_block"
+    },
+	{
+      "item": "reagentcraft:stoneskeleton"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stonefire"
+    },
+	{
+      "item": "minecraft:coal_block"	  
+    },
+	{
+      "item": "minecraft:coal_block"
+    },
+	{
+      "item": "minecraft:coal_block"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stonecoal"
+  }
+}

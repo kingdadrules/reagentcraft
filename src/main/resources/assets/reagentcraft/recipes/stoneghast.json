@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz_block",
+	"data": 0
+    },
+	{
+      "item": "reagentcraft:stonenether"
+    },	
+	{
+      "item": "minecraft:quartz_block",
+	"data": 0
+    },
+	{
+      "item": "reagentcraft:stoneskeleton"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stoneblaze"
+    },
+	{
+      "item": "minecraft:quartz_block",
+	"data": 0	  
+    },
+	{
+      "item": "minecraft:quartz_block",
+	"data": 0
+    },
+	{
+      "item": "minecraft:quartz_block",
+	"data": 0
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stoneghast"
+  }
+}

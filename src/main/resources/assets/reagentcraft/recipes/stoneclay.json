@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:clay"
+    },
+	{
+       "item": "minecraft:clay"
+    },
+	{
+      "item": "minecraft:clay"
+    },
+	{
+      "item": "reagentcraft:stonewinter"
+    },		
+	{
+      "item": "reagentcraft:stonecrafting"
+    },
+	{
+      "item": "reagentcraft:stonedesert"
+    },	
+	{
+      "item": "minecraft:clay"
+    },
+	{
+      "item": "minecraft:clay"	  
+    },	
+	{
+      "item": "minecraft:clay"
+    }	
+  ],  
+  "result": {
+    "item": "reagentcraft:stoneclay"
+  }
+}
