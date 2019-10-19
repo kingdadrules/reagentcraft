@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stonefire"
+    },
+	{
+      "item": "reagentcraft:reagent1"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:flint",
+	"data": 0,
+	"count": 16
+  }
+}

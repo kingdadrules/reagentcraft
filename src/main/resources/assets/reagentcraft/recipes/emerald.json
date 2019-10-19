@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stoneemerald"
+    },
+	{
+      "item": "reagentcraft:reagent5"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:emerald",
+	"data": 0,
+	"count": 1
+  }
+}

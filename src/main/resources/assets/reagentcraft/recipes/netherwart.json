@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stonenetherwart"
+    },
+	{
+      "item": "reagentcraft:reagent3"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:nether_wart",
+	"data": 0,
+	"count": 4
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stoneclay"
+    },
+	{
+      "item": "reagentcraft:reagent3"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:clay_ball",
+	"data": 0,
+	"count": 4
+  }
+}

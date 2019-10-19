@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stoneiron"
+    },
+	{
+      "item": "reagentcraft:reagent2"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:iron_ingot",
+	"data": 0,
+	"count": 8
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stonemagma"
+    },
+	{
+      "item": "reagentcraft:reagent5"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:magma_cream",
+	"data": 0,
+	"count": 1
+  }
+}

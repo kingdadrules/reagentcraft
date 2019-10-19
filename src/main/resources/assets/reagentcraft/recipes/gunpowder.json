@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stonecreeper"
+    },
+	{
+      "item": "reagentcraft:reagent1"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 16,
+	"data": 0
+  }
+}

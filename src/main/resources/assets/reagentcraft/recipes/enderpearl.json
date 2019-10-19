@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stoneend"
+    },
+	{
+      "item": "reagentcraft:reagent5"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:ender_pearl",
+	"data": 0,
+	"count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stoneinfinity",
+      "data": 32767
+    },
+	{
+      "item": "reagentcraft:reagent1"
+    }
+  ],  
+  "result": {
+    "item": "reagentcraft:reagent1",
+	"data": 0,
+	"count": 8
+  }
+}

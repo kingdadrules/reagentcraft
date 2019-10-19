@@ -1,0 +1,24 @@
+{
+   "conditions": [
+   {
+     "type": "reagentcraft:enableArmor"
+   }
+  ],
+  "result": {
+    "item": "reagentcraft:modleggings"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"JDJ",
+	"J J",
+	"J J"
+  ],
+  "key": {  
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "J": {
+      "item": "reagentcraft:reagentjewel"
+    }
+  }
+}

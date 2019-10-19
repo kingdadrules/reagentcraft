@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stonebrown"
+    },
+	{
+      "item": "reagentcraft:reagent1"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:dye",
+    "count": 4,
+	"data": 3
+  }
+}

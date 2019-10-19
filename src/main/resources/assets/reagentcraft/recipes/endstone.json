@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stonenether"
+    },
+	{
+      "item": "reagentcraft:reagent1"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:end_pearl"
+  }
+}

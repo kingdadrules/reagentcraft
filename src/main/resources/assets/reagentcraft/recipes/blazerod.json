@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stoneblaze"
+    },
+	{
+      "item": "reagentcraft:reagent4"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:blaze_rod",
+	"data": 0,
+	"count": 2
+  }
+}

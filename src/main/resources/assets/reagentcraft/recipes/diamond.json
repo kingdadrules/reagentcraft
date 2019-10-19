@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reagentcraft:stonediamond"
+    },
+	{
+      "item": "reagentcraft:reagent4"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:diamond",
+	"data": 0,
+	"count": 2
+  }
+}

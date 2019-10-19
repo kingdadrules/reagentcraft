@@ -1,0 +1,27 @@
+{
+   "conditions": [
+   {
+     "type": "reagentcraft:enableTools"
+   }
+  ],
+  "result": {
+    "item": "reagentcraft:modaxe"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"JJ",
+	"DS",
+	" S"
+  ],
+  "key": {  
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "J": {
+      "item": "reagentcraft:reagentjewel"
+    },
+	"S": {
+      "item": "minecraft:stick"
+    }
+  }
+}
