@@ -1,5 +1,6 @@
 package main;
 
+import items.ItemAlstone;
 import items.ItemBase;
 import items.ItemStone;
 import items.ItemStoneinfinity;
@@ -18,7 +19,7 @@ public class ModItemsInit {
 	public static ItemBase reagentnugget = new ItemBase("reagentnugget").setCreativeTab(CreativeTab.reagent);
 	public static ItemBase reagentingot = new ItemBase("reagentingot").setCreativeTab(CreativeTab.reagent);
 	public static ItemBase reagentjewel = new ItemBase("reagentjewel").setCreativeTab(CreativeTab.reagent);
-	public static ItemBase alstone = new ItemBase("alstone").setCreativeTab(CreativeTab.reagent);
+	public static ItemAlstone alstone = new ItemAlstone("alstone").setCreativeTab(CreativeTab.reagent);
 	public static ItemBase stonecrafting = new ItemBase("stonecrafting").setCreativeTab(CreativeTab.reagent);
 	
 	//Dye stones
